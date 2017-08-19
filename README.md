@@ -1,2 +1,3 @@
 # curso-git
-Fernando Rogelio Mejía Romero
+Fernando Rogelio MejÃ­a Romero
+Sabatino
